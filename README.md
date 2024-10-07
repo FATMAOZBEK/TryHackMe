@@ -1,2 +1,2 @@
 # TryHackMe
-_This repo will include my tryhackme progress._
+_This repo will include my TryHackMe progress._
